@@ -1,11 +1,11 @@
-# Puppet Module that installs PHPStorm for Boxen
+# Puppet Module that installs Firefox for Boxen
 
-PhpStorm is a lightweight and smart PHP IDE focused on developer productivity that deeply understands your code, provides smart code completion, quick navigation and on-the-fly error checking. It is always ready to help you shape your code, run unit-tests or provide visual debugging. This module installs it.
+This module installs Firefox
 
 ## Usage
 
 ```puppet
-include phpstorm
+include firefox
 ```
 
 ## Required Puppet Modules
